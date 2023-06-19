@@ -9,8 +9,7 @@ In this project, we examined the relationship between Credit Status, which indic
 The work that we did can be useful for companies that issue credit cards to see if a certain person with certain attributes would be able to pay their credit cards on time and make decisions based on our work.
 
 ## Analysis
-
-(Maybe we can say here like we used Chi Squared test to find relationships between variables?)
+We analysed the dataset by grouping credit status with each factors. Following this, we conducted chi square test to statistically measure the significance of the relationship between the factors and credit status. 
 
 ## Credits
 
