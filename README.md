@@ -11,7 +11,7 @@ The work that we did can be useful for companies that issue credit cards to see 
 ## Credits
 
 Group Members:
-Cindy Hung Ling
-Manisha Reza Paul
-Paolo Labuguen
-Parshant Mahajan
+Cindy Hung Ling,
+Manisha Reza Paul,
+Paolo Labuguen,
+Parshant Mahajan,
